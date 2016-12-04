@@ -25,6 +25,9 @@ omnibus.type@gmail.com
 
 ChangeLog
 
+4 December 2016 (Marc Foley) Sansita v1.006.
+- Fixed repository to match Google Fonts spec.
+
 8 January 2015 (Nicolas Silva) Sansita v1.005.
 - Removed Reserve Font Name from the license
 - Name tables adjusted
@@ -98,3 +101,7 @@ N: Pablo Cosgaya
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Designer
+
+N: Marc Foley
+E: m.foley.88@gmail.com
+D: Engineer
